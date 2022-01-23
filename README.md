@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamidat
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning Flutter and UI/UX
+- 🌱 I’m currently learning Godot Engine and UI/UX
 - 📫 How to reach me iamidat@outlook.com
 
 <!---
