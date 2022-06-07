@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamidat
+- 👋 Hi, I’m Ilham Rajab
 - 👀 I’m interested in UI/UX and Game Development
 - 🌱 I’m currently learning Unity and UI/UX
 - 📫 How to reach me iamidat@outlook.com
