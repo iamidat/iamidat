@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilham Rajab
-- 👀 I’m interested in UI/UX and Game Development
-- 🌱 I’m currently learning Unity and UI/UX
+- 👀 I’m interested in UI/UX and Website
+- 🌱 I’m currently learning JavaScript and UI/UX
 - 📫 How to reach me iamidat@outlook.com
 
 <!---
